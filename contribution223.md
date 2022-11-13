@@ -14,7 +14,6 @@ license_url: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=
 license_text: Wikipedia
 categories: 
    - Microsoft
-   - Windows
 tags:
    - Windows 95
 
